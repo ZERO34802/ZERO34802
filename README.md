@@ -1,6 +1,6 @@
 ### Hi, I'm Karthik
 
-MS in Computer Science at **UC Irvine** (graduating December 2027). I build backend systems and LLM-powered tools.
+Masters in Computer Science at **UC Irvine** (graduating December 2027). I build backend systems and LLM-powered tools.
 
 Before grad school I spent about two years as a software engineer, first on booking platforms at **Amadeus**, then on payment systems at a fintech company, focused on reliability, performance and LLM automation. I've also done ML research with **Samsung** and **IIT Bombay**.
 
