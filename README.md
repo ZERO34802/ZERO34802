@@ -18,6 +18,10 @@ An AI agent that diagnoses payment failures from Elasticsearch logs, checks hypo
 A Chrome extension and Spring Boot backend that keep YouTube sessions on the goal you set, using Gemini vision to check each page.
 `Java` `Spring Boot` `PostgreSQL` `Gemini` `Chrome MV3`
 
+**[ReconAI](https://github.com/ZERO34802/ReconAI-CalHacks-13.0-)**
+A Slack accounts-payable agent that takes vendor deals from quote to payment, with Odoo ERP and a Beancount ledger feeding a 3-way match that catches duplicates, fraud and overbilling. Cal Hacks 13.0 team project. [Demo video](https://youtu.be/SWFZMj2PKfo)
+`Python` `FastAPI` `React` `TypeScript` `Odoo` `Slack`
+
 **[BITGIG](https://github.com/ZERO34802/BITGIG)**
 An expert annotation marketplace for lab videos. I built the Gemini pipeline that pre-segments each video into protocol steps. UC Berkeley x DeepMind hackathon.
 `Python` `FastAPI` `Gemini` `Supabase` `Next.js`
