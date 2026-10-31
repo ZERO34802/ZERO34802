@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-- 🎓 **CS Grad @UCI**, MS in Computer Science, graduating December 2027
+- 🎓 **CS Grad @UCI**, Masters in Computer Science, graduating December 2027
 - 🏗️ ~2 years as a software engineer: booking platforms at **Amadeus**, then payment systems at a fintech company
 - ⚙️ I care about reliability, performance and putting LLMs to work on real workflows
 - 🔬 ML research with **Samsung** and **IIT Bombay**
