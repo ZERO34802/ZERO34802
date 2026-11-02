@@ -29,6 +29,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>💳 <a href="https://github.com/ZERO34802/paysentinel">PaySentinel</a></h4>
+      <a href="https://www.youtube.com/watch?v=l6zAGGMAXO8"><img src="assets/paysentinel.jpg" width="100%" alt="PaySentinel demo: landing page of the payment failure agent" /></a><br />
       AI agent that diagnoses payment failures from Elasticsearch logs, tests hypotheses against a 7-day baseline, and files a Jira ticket.<br />
       <sub>Google Cloud Rapid Agent Hackathon · <a href="https://www.youtube.com/watch?v=l6zAGGMAXO8">▶ Demo</a></sub><br /><br />
       <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
@@ -37,18 +38,8 @@
       <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/ZERO34802/intent-aware-browsing">Intent-Aware Browsing</a></h4>
-      Chrome extension and Spring Boot backend that keep YouTube sessions on the goal you set, using Gemini vision to check each page.<br />
-      <sub>Session recaps and quizzes · cached alignment checks</sub><br /><br />
-      <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🧾 <a href="https://github.com/ZERO34802/ReconAI-CalHacks-13.0-">ReconAI</a></h4>
+      <a href="https://youtu.be/SWFZMj2PKfo"><img src="assets/reconai.jpg" width="100%" alt="ReconAI demo: Slack agent reconciling a purchase order, goods receipt and invoice" /></a><br />
       Slack accounts-payable agent that takes vendor deals from quote to payment, with Odoo and a Beancount ledger feeding a 3-way match that catches duplicates, fraud and overbilling.<br />
       <sub>Cal Hacks 13.0 team project · <a href="https://youtu.be/SWFZMj2PKfo">▶ Demo</a></sub><br /><br />
       <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
@@ -56,25 +47,38 @@
       <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Odoo-161B22?style=flat-square&logo=odoo&logoColor=A24689" alt="Odoo" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🧪 <a href="https://github.com/ZERO34802/BITGIG">BITGIG</a></h4>
+      <a href="https://bitgig-smoky.vercel.app/"><img src="assets/bitgig.jpg" width="100%" alt="BITGIG landing page: Gemini drafts, experts decide" /></a><br />
       Expert annotation marketplace for lab videos. I built the Gemini pipeline that pre-segments each video into protocol steps.<br />
-      <sub>UC Berkeley x DeepMind hackathon</sub><br /><br />
+      <sub>UC Berkeley x DeepMind hackathon · <a href="https://bitgig-smoky.vercel.app/">↗ Live app</a></sub><br /><br />
       <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
       <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
       <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>💬 <a href="https://github.com/ZERO34802/Oration-career-chat">Oration Career Chat</a></h4>
+      <a href="https://career-chat-two.vercel.app/auth/login"><img src="assets/oration.jpg" width="100%" alt="Oration Career Chat: chat sessions and a career advice conversation" /></a><br />
       Full-stack AI career-counseling chat with auth, multiple sessions and paginated history.<br />
       <sub><a href="https://career-chat-two.vercel.app/auth/login">↗ Live app</a></sub><br /><br />
       <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
       <img src="https://img.shields.io/badge/tRPC-161B22?style=flat-square&logo=trpc&logoColor=2596BE" alt="tRPC" />
       <img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
       <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 <a href="https://github.com/ZERO34802/intent-aware-browsing">Intent-Aware Browsing</a></h4>
+      Chrome extension and Spring Boot backend that keep YouTube sessions on the goal you set, using Gemini vision to check each page.<br />
+      <sub>Session recaps and quizzes · cached alignment checks</sub><br /><br />
+      <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ More on the way</h4>
